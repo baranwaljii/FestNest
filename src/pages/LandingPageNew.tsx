@@ -355,21 +355,21 @@ const LandingPageNew: React.FC = () => {
           <Grid container spacing={4}>
             {[
               {
-                name: 'Sarah Johnson',
+                name: 'Sumit Tripathi',
                 role: 'Fitness Enthusiast',
                 rating: 5,
                 text: 'FitNest Pro completely transformed my approach to fitness. The AI recommendations are spot-on!',
                 avatar: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150'
               },
               {
-                name: 'Mike Chen',
+                name: 'Vishal Singh',
                 role: 'Personal Trainer',
                 rating: 5,
                 text: 'I recommend FitNest Pro to all my clients. The progress tracking is incredibly detailed.',
                 avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150'
               },
               {
-                name: 'Emily Rodriguez',
+                name: 'Ravi Patel',
                 role: 'Nutrition Coach',
                 rating: 5,
                 text: 'The nutrition features are game-changing. My clients love the meal planning tools!',

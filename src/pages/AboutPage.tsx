@@ -153,12 +153,12 @@ const AboutPage: React.FC = () => {
               mb: { xs: 3, md: 4 }
             }}
           >
-            FitNest was founded in 2022 with a simple idea: fitness tracking should be easy, motivating, and personalized for Indian users. 
-            Our founders, Anurag Kumar Barnwal and Aman Verma, noticed that many Indians struggled to maintain their fitness 
+            FitNest was founded in 2025 with a simple idea: fitness tracking should be easy, motivating, and personalized for Indian users. 
+            Our team, noticed that many Indians struggled to maintain their fitness 
             routines because tracking progress was cumbersome and often demotivating.
           </Typography>
           
-          <Box 
+          {/* <Box 
             component="img" 
             src="https://source.unsplash.com/random/1200x600/?fitness-team" 
             alt="FitNest team" 
@@ -169,7 +169,7 @@ const AboutPage: React.FC = () => {
               borderRadius: 4,
               my: { xs: 4, md: 6 }
             }}
-          />
+          /> */}
           
           <Typography 
             variant="body1" 
@@ -264,7 +264,7 @@ const AboutPage: React.FC = () => {
       </Box>
       
       {/* Team Section */}
-      <Container sx={{ py: 8 }}>
+      {/* <Container sx={{ py: 8 }}>
         <Typography variant="h3" component="h2" fontWeight="bold" textAlign="center" gutterBottom>
           Meet Our Team
         </Typography>
@@ -337,7 +337,7 @@ const AboutPage: React.FC = () => {
             </Paper>
           ))}
         </Box>
-      </Container>
+      </Container> */}
       
       {/* Statistics */}
       <Box sx={{ bgcolor: 'primary.main', color: 'white', py: 8 }}>

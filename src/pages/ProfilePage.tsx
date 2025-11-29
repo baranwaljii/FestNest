@@ -92,8 +92,8 @@ const ProfilePage: React.FC = () => {
     phone: '+1234567890',
     fullName: 'John Fitness',
     bio: 'Passionate about fitness and healthy living. Always striving to be better than yesterday!',
-    location: 'New York, NY',
-    joinDate: '2024-01-15',
+    location: 'India, Patna',
+    joinDate: '2025-11-15',
     avatar: '',
     age: 28,
     height: 175, // cm
